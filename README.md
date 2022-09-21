@@ -32,8 +32,9 @@ Users should be able to:
 
 ## My process
 - Defining Card Size 
-- Defining Media Queries in : 375px (Mobile), 750px (Tablet), 810px(Spezial for IPAD)
-- General Style Guide in CSS
+- Create Fist and Second Card
+- Show 2nd Card with useState
+- Passing Button Numbers to 2nd Card
 
 ### Built with
 
@@ -43,12 +44,12 @@ Users should be able to:
 
 ### What I learned
 
-Not my first Project with CSS Grid.
-A very Good Challenge to dive deeper into CSS Grid.
+Passing props the write way
+
 ## Author
 
 - Website - Coming Soon
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yoqedo)
-- Instagram - [@yourusername](https://www.instagram.com/yoqedo/)
+- Frontend Mentor - [@yoqedo](https://www.frontendmentor.io/profile/yoqedo)
+- Instagram - [@yoqedo](https://www.instagram.com/yoqedo/)
 
 
